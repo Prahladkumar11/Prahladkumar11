@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [https://btech-project-78.web.app/](https://btech-project-78.web.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio.hubfolio.com)
 
 - 💬 Ask me about **Python**
 
