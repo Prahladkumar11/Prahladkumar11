@@ -1,30 +1,53 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prahladkumar11&label=Profile%20views&color=0e75b6&style=flat" alt="prahladkumar11" /> </p>
-<h1 align="center">Hi 👋, I'm Prahlad kumar kushwaha</h1>
-<h3 align="center">As a B.Tech graduate with a strong passion for technology and a diverse skill set in Python, web development, and data analysis, my objective is to secure a challenging and rewarding position that allows me to leverage my expertise and enthusiasm to contribute significantly to the success of an innovative organization</h3>
+# Hi 👋, I'm Prahlad Kumar Kushwaha
+
+🚀 Backend Developer | FastAPI | Django | Flask | React | Next.js  
+💡 Building scalable, secure & high-performance applications  
+
+---
+
+## 🧑‍💻 About Me
+- 🔭 Backend Developer
+- ⚡ Python & Full Stack Specialist
+- 🧠 Scalable Architecture & Performance Focused
+- 📍 Greater Noida, UP
+- 📫 Prahladkuma11@gmail.com
+
+---
+
+## 🌐 Connect With Me
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/prahladkumar11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pkk78/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/917800098059)
+
+---
+
+# 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-00000f?style=for-the-badge&logo=mysql)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prahladkumar11" alt="prahladkumar11" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Job Portal Web Application**
+# 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=prahladkumar11&theme=tokyonight&hide_border=true)
 
-- 🌱 I’m currently learning **Django**
+---
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio.hubfolio.com)
 
-- 💬 Ask me about **Python**
 
-- 📫 How to reach me **Prahladkuma11@gmail.com**
+# 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prahladkumar11&theme=tokyo-night)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jcn3cCw1oPd_rSh-uF9olIpIonQAqSSq/view?pli=1](https://drive.google.com/file/d/1jcn3cCw1oPd_rSh-uF9olIpIonQAqSSq/view?pli=1)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prahladkuma11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prahladkuma11" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prahladkumar11&show_icons=true&locale=en&layout=compact" alt="prahladkumar11" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prahladkumar11&" alt="prahladkumar11" /></p>
+# 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=prahladkumar11&label=Profile%20Views&color=blue&style=flat)
